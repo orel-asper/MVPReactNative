@@ -1,0 +1,14 @@
+GET https://sheets.googleapis.com/v4/spreadsheets/13OUaL3qbobiI27otNzp-bO_LqX3iEa00zvlptSmk2yg/values/MVPReactNative?valueRenderOption=FORMATTED_VALUE&key=AIzaSyAkEmcghoyvCIi_6ibJ_qn3BN12kKvxTw0
+###
+
+PATCH https://sheets.googleapis.com/v4/spreadsheets/13OUaL3qbobiI27otNzp-bO_LqX3iEa00zvlptSmk2yg/values/MVPReactNative?valueRenderOption=FORMATTED_VALUE&key=AIzaSyAkEmcghoyvCIi_6ibJ_qn3BN12kKvxTw0
+
+{
+  "range": "MVPReactNative!A1",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "1"
+    ]
+  ]
+}
