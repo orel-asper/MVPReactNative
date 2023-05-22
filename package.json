@@ -7,7 +7,8 @@
     "ios": "react-native run-ios",
     "lint": "eslint .",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "android-release": "yarn android --variant=release"
   },
   "dependencies": {
     "@pusher/pusher-websocket-react-native": "^1.2.2",
